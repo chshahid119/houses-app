@@ -1,0 +1,5 @@
+# To ignore Node modules files to push in github
+node_modules/
+
+# ignore vscode settings 
+.vscode/
